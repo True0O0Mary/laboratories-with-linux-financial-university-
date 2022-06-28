@@ -14,7 +14,7 @@
 
 Добавим в начало каждой строки созданных файлов текст <li> (тег разметки списков языка HTML), результаты сохранить в файлах исходное_имя.html (например).
 
-![image](https://user-images.githubusercontent.com/94931275/176267377-23605995-51c7-4a31-9e9a-66cb54f63cbe.png)
+
 
 ![image](https://user-images.githubusercontent.com/94931275/176267440-2e1825cf-1170-4235-81f1-95d5963b4a2d.png)
 
