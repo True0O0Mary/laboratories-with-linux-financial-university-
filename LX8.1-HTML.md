@@ -1,4 +1,4 @@
-#LX 8.1 Создание HTML отчета![image](https://user-images.githubusercontent.com/94931275/176267250-c9dce793-9972-4c94-b88c-a87345695e1b.png)
+#LX 8.1 Создание HTML отчета
 
 Выведем расширенный список процессов (ps aux) и сохранить эту информацию в файл ps.out
 
