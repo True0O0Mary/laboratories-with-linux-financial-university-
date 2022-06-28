@@ -14,15 +14,15 @@
 
 Добавим в начало каждой строки созданных файлов текст <li> (тег разметки списков языка HTML), результаты сохранить в файлах исходное_имя.html (например).
 
-
-
 ![image](https://user-images.githubusercontent.com/94931275/176267440-2e1825cf-1170-4235-81f1-95d5963b4a2d.png)
 
 ![image](https://user-images.githubusercontent.com/94931275/176267501-48bdad90-ecd9-4012-974c-b17d7404a617.png)
 ![image](https://user-images.githubusercontent.com/94931275/176267538-09379f61-64e5-43b4-82f5-d0bd1e4dde43.png)
 
 Подсчитаем количество строк в каждом из полученных файлов (это значение будет соответствовать числу процессов, запущенных пользователем). Результаты объединим со строкой вида:
-<p><b>Итого процессов: NN</b> где NN - количество процессов, запущенных пользователем и сохранить в отдельные файлы (например root.total, user.total и т.п).![image](https://user-images.githubusercontent.com/94931275/176267576-8a876bca-ef06-4c75-b50c-411af798b3e3.png)
+<p><b>Итого процессов: NN</b> где NN - количество процессов, запущенных пользователем и сохранить в отдельные файлы (например root.total, user.total и т.п).
+
+![image](https://user-images.githubusercontent.com/94931275/176267576-8a876bca-ef06-4c75-b50c-411af798b3e3.png)
 
 ![image](https://user-images.githubusercontent.com/94931275/176267743-16784ce3-522c-4478-b178-b5755d2d5286.png)
 
